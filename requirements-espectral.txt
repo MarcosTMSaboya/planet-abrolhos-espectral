@@ -1,0 +1,4 @@
+# Dependências opcionais da análise espectral, instaladas com autorização em 20/10/2026.
+# Versões exatas e transitivas: requirements-espectral.lock.txt.
+scikit-learn>=1.5,<2
+matplotlib>=3.9,<4
