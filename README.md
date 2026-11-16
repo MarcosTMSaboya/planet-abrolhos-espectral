@@ -1,3 +1,4 @@
+
 # PlanetScope: análise exploratória de assinaturas espectrais
 
 Projeto em andamento para inspecionar e comparar assinaturas espectrais em imagens PlanetScope, com apoio do ACOLITE, Python e Streamlit. A aplicação reúne ferramentas de inspeção de cenas, qualidade de pixels, análise exploratória de agrupamentos, revisão espacial e preparação de pontos para verificação.
@@ -30,3 +31,12 @@ A análise está em desenvolvimento. Agrupamentos, curvas e resultados cartográ
 
 ## Licença
 Este repositório não declara uma licença de software. A publicação do código no GitHub não concede, por si só, permissão de reutilização. Consulte o autor antes de reutilizar o código.
+
+
+## Imagens do projeto
+
+### Análise espectral e qualidade das cenas
+![Painel de qualidade e assinaturas espectrais PlanetScope](codex-clipboard-e8ac6a22-96e0-4153-8f87-51c0ad8d950f.png)
+
+### Pontos de campo
+![Mapa de pontos de campo no projeto PlanetScope](codex-clipboard-7ab14ea5-87c1-42c7-9a87-477bbcba97cd.png)
