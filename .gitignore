@@ -1,0 +1,38 @@
+# Environments and secrets
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Local imagery, field data, GIS projects, outputs and logs
+PSScene/
+points/
+data/
+outputs/
+*.tif
+*.tiff
+*.jp2
+*.nc
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.prj
+*.qgz
+*.qgs
+*.xlsx
+*.csv
+*.geojson
+*.zip
+*.log
+
+# Editor files
+.vscode/
